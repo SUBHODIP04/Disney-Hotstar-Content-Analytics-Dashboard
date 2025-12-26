@@ -106,21 +106,6 @@ Learning reference for Power BI dashboard design
 
 Executive-level reporting demo
 
-## 📌 How to Use
-
-Download or clone this repository
-
-Open the Power BI file (.pbix)
-
-Refresh the dataset if required
-
-Explore insights using filters and visuals
-
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork the repository, enhance visuals, add new insights, or optimize performance.
-
 ## 📬 Contact
 
 Author: Subhodip Sarkar
