@@ -92,7 +92,7 @@ Content type (Movie / TV Show)
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](Screenshot 2025-11-28 202427.png)
+![Dashboard Preview]([Screenshot 2025-11-28 202427.png](https://github.com/SUBHODIP04/Disney-Hotstar-Content-Analytics-Dashboard/blob/main/Screenshot%202025-11-28%20202427.png))
 
 ## 📈 Use Cases
 
